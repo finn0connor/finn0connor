@@ -1,12 +1,38 @@
 # Hi, I'm Finn - Welcome to my GitHub 👍
 
-This is where you can see some of the work I have done!
+This is where you can explore a selection of my work across mechanical engineering, data science, and quantitative applications.
 
-## About Me
+---
 
+## 👋 About Me
 
+I’m a Mechanical & Manufacturing Engineering student at Trinity College Dublin, currently completing an integrated Master’s degree.
 
-## Platforms and Software
+My work combines:
+- ⚙️ Core mechanical engineering (thermodynamics, fluid mechanics, design)
+- 📊 Data science and computational modelling  
+- ⚡ Applications to energy systems and trading  
+
+Alongside my degree, I have experience working in energy trading, where I apply programming, data analysis, and quantitative methods to real-world market problems.
+
+---
+
+## 📊 What You'll Find Here
+
+This GitHub includes a mix of academic, technical, and applied projects:
+
+- ⚙️ **Mechanical Engineering**  
+  Simulation, CAD, thermodynamics, fluid mechanics, and design projects  
+
+- 📊 **Data Science & Modelling**  
+  Python-based analysis, machine learning, and time series modelling  
+
+- ⚡ **Energy & Markets**  
+  Projects related to energy systems, price forecasting, and market analysis  
+
+---
+
+## 🛠️ Platforms and Software
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,3 +51,20 @@ This is where you can see some of the work I have done!
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Current Focus
+
+- Applying data science and machine learning to engineering and market problems  
+- Building forecasting and analysis tools for energy systems  
+- Developing a deeper understanding of power and gas markets  
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 foconno1@tcd.ie  
+- 🔗 https://linkedin.com/in/finn-oconnor  
+
+---
