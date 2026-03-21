@@ -1,5 +1,11 @@
 # Hi, I'm Finn - Welcome to my GitHub 👍
 
+This is where you can see some of the work I have done!
+
+## About Me
+
+
+
 ## Platforms and Software
 
 ### Languages
