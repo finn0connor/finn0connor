@@ -1,3 +1,5 @@
+# Hi, I'm Finn - welcome to my GitHub 👍
+
 ## Platforms and Software
 
 ### Languages
