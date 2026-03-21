@@ -1,4 +1,4 @@
-# Hi, I'm Finn - welcome to my GitHub 👍
+# Hi, I'm Finn - Welcome to my GitHub 👍
 
 ## Platforms and Software
 
