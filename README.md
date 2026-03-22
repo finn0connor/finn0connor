@@ -15,9 +15,9 @@ Alongside my degree through an industrial placement, I have experience in energy
 
 ## Featured Projects
 
-### 🔬 [Project Name](https://github.com/username/university-coursework/tree/main/project-folder)
+### 🔬 Featured Projects
 
-Brief description of what this project does and what skills it demonstrates.
+Follow this link to access some of my featured projects: [Project Name](https://github.com/username/university-coursework/tree/main/project-folder)
 
 ## Platforms and Software
 
