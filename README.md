@@ -13,7 +13,7 @@ My work sits at the intersection of:
 - **Data science** — analysis, modelling, and machine learning  
 - **Energy and markets** — forecasting and applied quantitative work  
 
-Alongside my degree, I have experience in energy trading, applying programming and data-driven methods to real-world market problems.
+Alongside my degree through an industrial placement, I have experience in energy trading, applying programming and data-driven methods to real-world market problems.
 
 ---
 
