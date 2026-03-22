@@ -9,13 +9,20 @@ This repository showcases a selection of my work across mechanical engineering, 
 I am a Mechanical & Manufacturing Engineering student at Trinity College Dublin, currently completing an integrated Master’s degree.
 
 My work sits at the intersection of:
-- **Mechanical engineering** — thermodynamics, fluid mechanics, and design  
-- **Data science** — analysis, modelling, and machine learning  
-- **Energy and markets** — forecasting and applied quantitative work  
+- **Mechanical engineering** — thermodynamics, fluid mechanics, and design
+- **Data science** — quantitative analysis, modelling, and machine learning  
+- **Energy and markets** — forecasting, energy systems, market analysis
 
 Alongside my degree through an industrial placement, I have experience in energy trading, applying programming and data-driven methods to real-world market problems.
 
 ---
+
+## Featured Projects
+
+### 🔬 [Project Name](https://github.com/username/university-coursework/tree/main/project-folder)
+
+Brief description of what this project does and what skills it demonstrates.
+
 
 ## Platforms and Software
 
@@ -36,21 +43,6 @@ Alongside my degree through an industrial placement, I have experience in energy
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMSAySDNjLTEuMSAwLTIgLjktMiAydjE2YzAgMS4xLjkgMiAyIDJoMThjMS4xIDAgMi0uOSAyLTJWNGMwLTEuMS0uOS0yLTItMnptLTEgMTZIMTJ2LTJoOHYyem0wLTRIMTJ2LTJoOHYyem0wLTRIMTJWOGg4djJ6TTEwIDE4SDR2LTJoNnYyem0wLTRINHYtMmg2djJ6bTAtNEg0VjhoNnYyeiIvPjwvc3ZnPg==&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## What You'll Find Here
-
-This GitHub includes a range of academic, technical, and applied projects:
-
-- **Mechanical Engineering**  
-  Simulation, CAD, thermodynamics, and design work  
-
-- **Data Science & Modelling**  
-  Python-based analysis, machine learning, and time series modelling  
-
-- **Energy & Markets**  
-  Energy systems, price forecasting, and market analysis  
 
 ---
 
