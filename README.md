@@ -34,7 +34,7 @@ Alongside my degree through an industrial placement, I have experience in energy
 ### Engineering & Tools
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMSAySDNjLTEuMSAwLTIgLjktMiAydjE2YzAgMS4xLjkgMiAyIDJoMThjMS4xIDAgMi0uOSAyLTJWNGMwLTEuMS0uOS0yLTItMnptLTEgMTZIMTJ2LTJoOHYyem0wLTRIMTJ2LTJoOHYyem0wLTRIMTJWOGg4djJ6TTEwIDE4SDR2LTJoNnYyem0wLTRINHYtMmg2djJ6bTAtNEg0VjhoNnYyeiIvPjwvc3ZnPg==&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
