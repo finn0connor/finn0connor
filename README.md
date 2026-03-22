@@ -17,21 +17,6 @@ Alongside my degree, I have experience in energy trading, applying programming a
 
 ---
 
-## What You'll Find Here
-
-This GitHub includes a range of academic, technical, and applied projects:
-
-- **Mechanical Engineering**  
-  Simulation, CAD, thermodynamics, and design work  
-
-- **Data Science & Modelling**  
-  Python-based analysis, machine learning, and time series modelling  
-
-- **Energy & Markets**  
-  Energy systems, price forecasting, and market analysis  
-
----
-
 ## Platforms and Software
 
 ### Languages
@@ -51,6 +36,21 @@ This GitHub includes a range of academic, technical, and applied projects:
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## What You'll Find Here
+
+This GitHub includes a range of academic, technical, and applied projects:
+
+- **Mechanical Engineering**  
+  Simulation, CAD, thermodynamics, and design work  
+
+- **Data Science & Modelling**  
+  Python-based analysis, machine learning, and time series modelling  
+
+- **Energy & Markets**  
+  Energy systems, price forecasting, and market analysis  
 
 ---
 
