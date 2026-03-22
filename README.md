@@ -47,4 +47,3 @@ Follow this link to access some of my featured projects: [Featured Projects](htt
 
 - foconno1@tcd.ie  
 - https://linkedin.com/in/finn-oconnor
-- Check out my resume here: [View Resume](https://github.com/finn0connor/resume)
