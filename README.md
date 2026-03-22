@@ -2,8 +2,6 @@
 
 This repository showcases a selection of my work across mechanical engineering, data science, and quantitative applications.
 
----
-
 ## About Me
 
 I am a Mechanical & Manufacturing Engineering student at Trinity College Dublin, currently completing an integrated Master’s degree.
@@ -15,14 +13,11 @@ My work sits at the intersection of:
 
 Alongside my degree through an industrial placement, I have experience in energy trading, applying programming and data-driven methods to real-world market problems.
 
----
-
 ## Featured Projects
 
 ### 🔬 [Project Name](https://github.com/username/university-coursework/tree/main/project-folder)
 
 Brief description of what this project does and what skills it demonstrates.
-
 
 ## Platforms and Software
 
@@ -44,15 +39,11 @@ Brief description of what this project does and what skills it demonstrates.
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMSAySDNjLTEuMSAwLTIgLjktMiAydjE2YzAgMS4xLjkgMiAyIDJoMThjMS4xIDAgMi0uOSAyLTJWNGMwLTEuMS0uOS0yLTItMnptLTEgMTZIMTJ2LTJoOHYyem0wLTRIMTJ2LTJoOHYyem0wLTRIMTJWOGg4djJ6TTEwIDE4SDR2LTJoNnYyem0wLTRINHYtMmg2djJ6bTAtNEg0VjhoNnYyeiIvPjwvc3ZnPg==&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## Current Focus
 
 - Data-driven modelling and forecasting  
 - Applications of machine learning to engineering and market data  
 - Energy systems and power market analysis  
-
----
 
 ## Contact
 
