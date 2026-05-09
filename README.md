@@ -13,9 +13,9 @@ My work sits at the intersection of:
 
 Alongside my degree through an industrial placement, I have experience in energy trading, applying programming and data-driven methods to real-world market problems.
 
-## 🔬 Featured Projects
+## 🔬 Portfolio (GitHub Pages):
 
-Follow this link to access some of my featured projects: [Featured Projects](https://github.com/username/university-coursework/tree/main/project-folder)
+Follow this link to access some of my featured projects: [https://finn0connor.github.io/](https://finn0connor.github.io/)
 
 ## Platforms and Software
 
