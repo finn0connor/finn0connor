@@ -17,6 +17,12 @@ Alongside my degree through an industrial placement, I have experience in energy
 
 Follow this link to access some of my featured projects: [https://finn0connor.github.io/](https://finn0connor.github.io/)
 
+Here you will find my final internship report, which documents my contributions made and what I learned at ElectroRoute such as:
+- KPI Dashboard Development
+- Solar Trading Strategy Analysis and Backtesting
+- Machine Learning Demand Forecasting Ensemble
+- Paper Trading
+
 ## Platforms and Software
 
 ### Programming Languages
